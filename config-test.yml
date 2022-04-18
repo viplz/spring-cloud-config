@@ -1,1 +1,3 @@
+config:
+  info: "spring-cloud-config-test, version=1"
 
